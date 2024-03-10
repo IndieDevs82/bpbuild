@@ -1,9 +1,9 @@
 const cacheName = "Yomi Games-Yomi Block Puzzle-1.42";
 const contentToCache = [
-    "Build/BlockPuzzleBuilds.loader.js",
-    "Build/BlockPuzzleBuilds.framework.js",
-    "Build/BlockPuzzleBuilds.data",
-    "Build/BlockPuzzleBuilds.wasm",
+    "Build/bp msn build.loader.js",
+    "Build/bp msn build.framework.js.br",
+    "Build/bp msn build.data.br",
+    "Build/bp msn build.wasm.br",
     "TemplateData/style.css"
 
 ];
